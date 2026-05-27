@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO / BANNER (Optional: Add your banner link here) -->
 <p align="center">
-  <img src="https://via.placeholder.com/800x200/000000/FFFFFF/?text=Wapkiz+%26+Wapaxo+Resource+Hub" alt="Wapkiz and Wapaxo Banner">
+  <img src="https://raw.githubusercontent.com/Azaoia/Wapkiz-and-Wapaxo-resources-for-creators/refs/heads/main/Generated%20Image%20May%2027%2C%202026%20-%206_47PM.png" alt="Wapkiz and Wapaxo Banner">
 </p>
 
 <h1 align="center">🧰 Wapkiz & Wapaxo – Resource Hub for Creators</h1>
