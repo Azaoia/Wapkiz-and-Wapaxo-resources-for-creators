@@ -48,7 +48,7 @@ Where the magic happens. Create and manage your sites directly on these platform
 
 ### 📤 Project Sharing
 Download codes and share your creations with other developers.
-* **[CodeHub](https://codehub.wapkizs.com)** — The central hub for downloading and sharing projects and scripts developed for the Wapkiz platform.
+* **[ThemeHub](https://themehub.qzz.io)** — The central hub for downloading and sharing projects and scripts developed for the Wapkiz platform.
 
 ### 🎨 Themes and Templates
 Give your site a professional look using ready-made themes.
